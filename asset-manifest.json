@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e6fc60a.css",
+    "main.js": "/static/js/main.21595cb7.js",
+    "static/media/patrick-hendry-u6Vv2tJJyKY-unsplash.jpg": "/static/media/patrick-hendry-u6Vv2tJJyKY-unsplash.7a76cc2533684875cb31.jpg",
+    "static/media/ryan-spencer-XGKaRnWjv1c-unsplash.jpg": "/static/media/ryan-spencer-XGKaRnWjv1c-unsplash.ace522b47e01118e384d.jpg",
+    "index.html": "/index.html",
+    "main.0e6fc60a.css.map": "/static/css/main.0e6fc60a.css.map",
+    "main.21595cb7.js.map": "/static/js/main.21595cb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6fc60a.css",
+    "static/js/main.21595cb7.js"
+  ]
+}
